@@ -369,14 +369,11 @@ img{
 .skills__ux{
   width: 85%;
 }
-.skills__Django{
-  width: 75%;
+.skills__DJANGO{
+  width:65%;
 }
 .skills__chatbots{
   width: 50%;
-}
-.skills__flutter{
-  width: 20%;
 }
 .skills__img{
   border-radius: .5rem;
